@@ -112,19 +112,6 @@ while True:
 
 # Projektbilder
 
-## Helle Umgebung → LEDs ausgeschaltet
-
-![Bright Environment](bright_mode.jpg)
-
----
-
-## Dunkelheit → LEDs eingeschaltet
-
-![Dark Environment](dark_mode.jpg)
-
----
-
----
 
 #  English
 
@@ -233,19 +220,7 @@ while True:
 
 ---
 
-# Project Images
 
-## Bright Environment → LEDs OFF
-
-![Bright Environment](bright_mode.jpg)
-
----
-
-## Dark Environment → LEDs ON
-
-![Dark Environment](dark_mode.jpg)
-
----
 
 # Developer
 
